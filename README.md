@@ -4,7 +4,7 @@
 # NerialSumber.github.io
 
 ## 📝 Description
-A brief description of what this project does and its main objectives.
+👨‍💻 My personal online portfolio. A dedicated space to showcase my projects in Web Development and Software Quality Assurance (QA).
 
 ## 🛠️ Technologies & Tools
 - **Frontend:** React, Next.js, Tailwind CSS
